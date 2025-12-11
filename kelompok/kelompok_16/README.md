@@ -4,7 +4,7 @@
 >
 > *Tema:* Community & Organization Management
 
-Aplikasi ini adalah platform komunitas berbasis web yang dirancang untuk mendigitalkan interaksi sosial, pengambilan keputusan (voting), manajemen kegiatan, dan transparansi informasi dalam sebuah organisasi atau komunitas. Dibangun menggunakan PHP Native untuk performa yang ringan dan struktur yang mudah dipahami.
+Sistem ini adalah platform komunitas berbasis web yang dirancang untuk mendigitalkan interaksi sosial, pengambilan keputusan (voting), manajemen kegiatan, dan transparansi informasi dalam sebuah organisasi atau komunitas. Dibangun menggunakan PHP Native untuk performa yang ringan dan struktur yang mudah dipahami.
 
 ---
 
